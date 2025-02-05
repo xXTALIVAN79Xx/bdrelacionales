@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Oscar Ivan Torres Burgos
+4AVP
